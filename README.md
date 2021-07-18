@@ -8,7 +8,7 @@
    
    
  *Checkpoint2*    
- - Compared different ML/DL models, APIs for speech to text conversion. I found 2 models which had great performance, Wave2Vec2.0 and VoskAPI.  
+ - Compared different ML/DL models, APIs for speech to text conversion. I found 2 models which had great performance, Wave2Vec2.0[![Open In Colab](https://colab.research.google.com/drive/1KW_KUqrEzxgVWBjymwyB4ATJ6blzoKka?usp=sharing)] and VoskAPI .  
   
   
 *Checkpoint3*
