@@ -25,6 +25,6 @@
  - *Audio_denoising.py* : Denoises the audio
  - *Speech_to_Text.py*: Converts speech to text  
  - *BriefKing.jpeg* : Logo of BriefKing  
- - *Jayant_BriefKing* : Contains the documentation and notes. 
+ - *Jayant_BriefKing.pdf* : Contains the documentation and notes. 
  
  
