@@ -13,7 +13,7 @@
   
 *Checkpoint3*
  - Compared different Denoising Models.
- - Implemented Page-Rank Algorithm for Speech Summarization  
+ - Implemented Page-Rank, skip-thoughts algorithm for Text Summarization.
   
     
 ***Files in the Repository***
