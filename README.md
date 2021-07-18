@@ -26,5 +26,6 @@
  - *Speech_to_Text.py*: Converts speech to text  
  - *BriefKing.jpeg* : Logo of BriefKing  
  - *Jayant_BriefKing.pdf* : Contains the documentation and notes. 
+ - *smallvideoconverted.wav* : Another audio file used for testing models.
  
  
